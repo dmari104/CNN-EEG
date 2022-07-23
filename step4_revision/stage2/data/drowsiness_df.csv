@@ -1,0 +1,7 @@
+id,revised_class,true_class,true_label,predicted_class
+BAMBI.S602.yyyymmdd.ECRASD1_raw_nonartifact_122.0-122.999512,3,1,nonartifact,1
+BAMBI.S602.yyyymmdd.ECRASD1_raw_nonartifact_122.5-123.499512,3,1,nonartifact,1
+SPACE.S01.yyyymmdd.EORASD_raw_nonartifact_72.0-72.999512,3,1,nonartifact,1
+SPACE.S04.yyyymmdd.EOREP_raw_nonartifact_89.0-89.999512,3,1,nonartifact,1
+SPACE.S29.yyyymmdd.EORHE_raw_nonartifact_57.5-58.499512,3,1,nonartifact,0
+SPACE.S86.yyyymmdd.EORASD_raw_nonartifact_37.5-38.499512,3,1,nonartifact,0
