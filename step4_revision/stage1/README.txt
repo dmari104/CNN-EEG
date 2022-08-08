@@ -4,7 +4,7 @@
 
 # helperfunctions/ contains supporting functions for the main scripts
 
-# Software/ contains NBT and eeglab toolboxes 
+# Software/ contains eeglab toolbox. 
 
 # data/segments_to_review - output data produced by step1_select_segments.py
 # data/fn_segments.mat and data/fp_segments.mat - EEG segments selected for revision + meta info (output of step2_extract_fn_segments.m and step2_extract_fp_semgnets.m). Provided as is since original recordings needed to produce signal segments and meta info are private and cannot be shared.
