@@ -50,7 +50,7 @@ annotation_length_total = 0
 recording_length_total = 0
 
 # Preprocess recordings
-for i, recording in enumerate(allFiles[0:1]):
+for i, recording in enumerate(allFiles):
     print('recording %s / %s' % (i+1, len(allFiles)))
     outfpath = os.path.join(preprocessed_file_path,
                                        os.path.splitext(os.path.basename(recording))[0] + '_raw.fif')
